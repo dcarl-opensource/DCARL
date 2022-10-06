@@ -1,5 +1,6 @@
 # Readme of Supplementary Data File
 
+[![DOI](https://zenodo.org/badge/546432452.svg)](https://zenodo.org/badge/latestdoi/546432452)
 
 ## 1. Structure
 
