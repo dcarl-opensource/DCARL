@@ -19,7 +19,7 @@ The files are structured as follows, where the note in the brackets briefly expl
 |   |   |   +-- test_value_collect.py [Collect More Simulated Data from CARLA]
 +-- Field_Testing [Codes and Data in the article for Experiment 3]
 |   +-- Software_and_Raw_Data_on_Self-Driving_Vehicle
-|   |   +-- software [Codes on self-driving vehicles]
+|   |   +-- software [Codes on self-driving vehicles. It's a copy of CLAP framework which refer to https://gitlab.com/umvdl/zzz/zzz/-/tree/dev/xiaopengG3]
 |   |   +-- run_docker.sh [DEMO codes]
 |   |   +-- demo.rviz [Visual interface for the codes]
 |   +-- Simulation1
